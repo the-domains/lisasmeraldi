@@ -1,28 +1,18 @@
-name: LisaSmeraldi
-favicon: null
-layout_spectrum: 0.29009093483909965
-typography_spectrum: 0.7212953877169639
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#C8C8C0'
+    - '#000000'
+    - '#888888'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.08438970101997256
   lightness: 0.09702295390889049
-  saturation: 0.7855881517753005
   rhythmicContrast: 0.9942637179046869
+  saturation: 0.7855881517753005
+cta: {}
+layout_spectrum: 0.29009093483909965
+name: LisaSmeraldi
+opengraph: {}
 purpose: []
+typography_spectrum: 0.7212953877169639
